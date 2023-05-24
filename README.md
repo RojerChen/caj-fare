@@ -38,4 +38,4 @@ docker build -f Dockerfile-gradle -t fare:latest .
 ```bash=
 # default port 8080
 docker run -p 8080:8080 fare:latest
-```  
+```   
